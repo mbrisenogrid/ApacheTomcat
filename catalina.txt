@@ -1,3 +1,7 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-10-on-ubuntu-20-04
+https://tomcat.apache.org/download-90.cgi
+https://www.jenkins.io/download/
+
 CATALINA_OPTS="$CATALINA_OPTS -Dcom.sun.management.jmxremote"
 CATALINA_OPTS="$CATALINA_OPTS -Dcom.sun.management.jmxremote.port=9999"
 CATALINA_OPTS="$CATALINA_OPTS -Dcom.sun.management.jmxremote.rmi.port=9999"
